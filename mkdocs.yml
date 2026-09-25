@@ -3,7 +3,7 @@ site_url: https://wiki.webdmx.com
 
 theme:
   name: material
-  language: en
+  language: custom
 
   features:
     - navigation.instant
